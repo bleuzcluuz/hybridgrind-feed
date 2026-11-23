@@ -14,18 +14,18 @@
       "version": "0.5.4",
       "buildVersion": "0.5.4",
       "versionDate": "2026-11-23",
-      "versionDescription": "Automated build 0.5.4 (3f1798feda1b9aeb4f8bb387b68d72eaab5cac61)",
+      "versionDescription": "Automated build 0.5.4 (36f920e892e0911febb51d628284fa61890d4415)",
       "downloadURL": "https://github.com/bleuzcluuz/hybridgrind-feed/releases/download/latest/HybridGrind-unsigned.ipa",
-      "size": 14441311,
+      "size": 14440403,
       "minOSVersion": "14.0",
       "versions": [
         {
           "version": "0.5.4",
           "buildVersion": "0.5.4",
           "date": "2026-11-23",
-          "localizedDescription": "Automated build 0.5.4 (3f1798feda1b9aeb4f8bb387b68d72eaab5cac61)",
+          "localizedDescription": "Automated build 0.5.4 (36f920e892e0911febb51d628284fa61890d4415)",
           "downloadURL": "https://github.com/bleuzcluuz/hybridgrind-feed/releases/download/latest/HybridGrind-unsigned.ipa",
-          "size": 14441311,
+          "size": 14440403,
           "minOSVersion": "14.0"
         }
       ]
