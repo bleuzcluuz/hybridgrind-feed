@@ -1,31 +1,31 @@
 {
-  "name": "Hybrid Grind",
+  "name": "GR!ND",
   "identifier": "com.personal.hybridgrind.source",
   "sourceURL": "https://raw.githubusercontent.com/bleuzcluuz/hybridgrind-feed/main/source.json",
   "apps": [
     {
-      "name": "Hybrid Grind",
+      "name": "GR!ND",
       "bundleIdentifier": "com.personal.hybridgrind",
       "developerName": "HybridGrind",
       "subtitle": "Grindr Client with privacy features",
-      "localizedDescription": "Hybrid Grind client for iOS with OpenGrind network core.",
+      "localizedDescription": "GR!ND client for iOS with OpenGrind network core.",
       "iconURL": "https://raw.githubusercontent.com/bleuzcluuz/hybridgrind-feed/main/icon.png",
       "tintColor": "#f5a623",
       "version": "0.5.4",
       "buildVersion": "0.5.4",
-      "versionDate": "2026-11-22",
-      "versionDescription": "Automated build 0.5.4 (a309a8b37715903fd913e796cb71816ecf2e71e5)",
+      "versionDate": "2026-11-23",
+      "versionDescription": "Automated build 0.5.4 (ab365493a42ba9b85561f2567bffdec9bd517874)",
       "downloadURL": "https://github.com/bleuzcluuz/hybridgrind-feed/releases/download/latest/HybridGrind-unsigned.ipa",
-      "size": 11819215,
+      "size": 14440719,
       "minOSVersion": "14.0",
       "versions": [
         {
           "version": "0.5.4",
           "buildVersion": "0.5.4",
-          "date": "2026-11-22",
-          "localizedDescription": "Automated build 0.5.4 (a309a8b37715903fd913e796cb71816ecf2e71e5)",
+          "date": "2026-11-23",
+          "localizedDescription": "Automated build 0.5.4 (ab365493a42ba9b85561f2567bffdec9bd517874)",
           "downloadURL": "https://github.com/bleuzcluuz/hybridgrind-feed/releases/download/latest/HybridGrind-unsigned.ipa",
-          "size": 11819215,
+          "size": 14440719,
           "minOSVersion": "14.0"
         }
       ]
